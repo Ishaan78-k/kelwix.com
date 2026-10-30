@@ -1,0 +1,3 @@
+Put the hero animation frames here: frame_001.webp, frame_002.webp, ...
+Then set data-frames="N" on the <canvas id="hero-canvas"> in index.html.
+Without frames the hero uses a built-in photo crossfade.
